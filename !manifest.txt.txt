@@ -1,0 +1,4 @@
+OD_CRU02_2020051415510736.CSV - Kapacity hromadných ubytovacích zařízení podle ČSÚ / https://www.czso.cz/csu/czso/kapacity-hromadnych-ubytovacich-zarizeni
+kraje.json - topojson českých krajů, včetně klíčů (metodou číselníku #100 podle ČSÚ  a číselníku NUTS3 podle Eurostatu)
+okresy.json - topojson českých okresů, včetně klíčů (metodou číselníku #101 podle ČSÚ a číselníku LAU1 podle Eurostatu)
+powerbi-cesko.pbix - vzorový power bi report s dimenzí okresů a krajů, postavený nad daty v prvním bodu a shapefily v druhém a třetím bodu
