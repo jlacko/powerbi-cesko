@@ -5,7 +5,7 @@ Vizualizace českých prostorových dat v Power BI. Toto repo na příkladu ukaz
   <img src="https://github.com/jlacko/powerbi-cesko/blob/main/screenshot.png?raw=true" alt="Power BI aplikace v kontextu České republiky"/>
 </p>
 
-Vzorovou aplikaci můžete vidět běžet na https://app.powerbi.com/groups/me/reports/d3373861-ca88-49d7-ae99-62181bf05f40
+Vzorovou aplikaci můžete vidět běžet na https://app.powerbi.com/view?r=eyJrIjoiOGJiNzMwZWMtNGRjNS00YWQzLWE4ZTEtOWViMzY3NmNkNzQ5IiwidCI6ImZlOWQ2NzQwLTg5NTctNDc1OS1iNjRjLWM0NTgwYTNlNjQ0MiIsImMiOjl9
 
 <hr>
 
